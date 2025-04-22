@@ -5,4 +5,4 @@ Finding correct and appropriate data sets was my primary focus. I chose my count
 
 Finally, I ensured the raw data was thoroughly cleaned to prevent any reading errors when input into the Observable project. 
 
-How I cleaned the data:
+How I cleaned the data: (https://github.com/nimisha-sen/migration_oecd_observable/blob/main/cleaning_data_oecd.ipynb)
